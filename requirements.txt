@@ -1,5 +1,0 @@
-streamlit
-sklearn
-nltk
-pandas
-PyPDF2
