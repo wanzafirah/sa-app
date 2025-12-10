@@ -336,7 +336,5 @@ You can then:
 
     else:
         st.info("Upload a CSV file to start the batch analysis.")
-streamlit
-nltk
-pandas
-PyPDF2
+
+
